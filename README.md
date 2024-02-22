@@ -1,4 +1,4 @@
-SIEM and Honeypot | Microsoft Azure Sentinel Attack Map
+               SIEM and Honeypot | Microsoft Azure Sentinel Attack Map
 
 Summary
 SIEM, short for Security Information and Event Management System, is a crucial solution aiding organizations in identifying, analyzing, and addressing security threats before they disrupt business operations. By aggregating event log data from various network sources like Firewalls, IDS/IPS, and Identity solutions, SIEM enables security professionals to actively monitor, prioritize, and mitigate potential threats in real-time. On the other hand, a honeypot serves as a strategic security measure, simulating a vulnerable system to entice attackers into a controlled environment. This allows for the observation of attacker behavior, analysis of threats, and refinement of security protocols. The objective of this lab is to explore the process of gathering honeypot attack data, integrating it into a SIEM platform, and presenting it in a visually accessible format, such as a world map showcasing event counts and geolocations.
